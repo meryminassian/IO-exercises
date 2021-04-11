@@ -9,7 +9,7 @@ import java.util.stream.Collectors;
 public class MainPdf {
 
     public static void main(String[] args) {
-        File file = new File("C:\\Users\\minas\\Desktop\\CS 213");
+        File file = new File("C:\\...\\CS 213");
 
 //        try {
 //            Arrays.stream(file.list())
