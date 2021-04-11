@@ -1,0 +1,83 @@
+{
+doc: Optim Projects listing.pdf,
+size: 178 kb,
+DateModified:02/16/2021 13:52:25
+}
+
+ {
+doc: slide 1.pdf,
+size: 181 kb,
+DateModified:01/31/2021 23:13:00
+}
+
+ {
+doc: slide 2.pdf,
+size: 173 kb,
+DateModified:01/31/2021 23:13:02
+}
+
+ {
+doc: slide 3.pdf,
+size: 137 kb,
+DateModified:02/02/2021 22:22:01
+}
+
+ {
+doc: slide 4.pdf,
+size: 139 kb,
+DateModified:02/02/2021 22:21:56
+}
+
+ {
+doc: slide 5.pdf,
+size: 530 kb,
+DateModified:02/18/2021 18:23:53
+}
+
+ {
+doc: slide 6.pdf,
+size: 424 kb,
+DateModified:02/25/2021 23:24:15
+}
+
+ {
+doc: slide 7.pdf,
+size: 127 kb,
+DateModified:03/02/2021 20:08:09
+}
+
+ {
+doc: slide 8.pdf,
+size: 983 kb,
+DateModified:04/08/2021 23:10:05
+}
+
+ {
+doc: slide 9_1.pdf,
+size: 183 kb,
+DateModified:04/09/2021 02:17:28
+}
+
+ {
+doc: slide 9_2.pdf,
+size: 152 kb,
+DateModified:04/09/2021 02:17:33
+}
+
+ {
+doc: Slide_10.pdf,
+size: 120 kb,
+DateModified:04/09/2021 03:10:53
+}
+
+ {
+doc: [ChZ] - Edwin K. P. Chong, Stanislaw H. Zak-An Introduction to Optimization-Wiley (2013).pdf,
+size: 20282 kb,
+DateModified:02/18/2021 19:58:17
+}
+
+ {
+doc: [NW] - Numerical_Optimization_v2.pdf,
+size: 4189 kb,
+DateModified:02/19/2021 15:36:25
+}

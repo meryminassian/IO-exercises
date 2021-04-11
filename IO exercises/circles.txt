@@ -1,0 +1,18 @@
+{
+name: Circle 1
+ radius: 41.0
+area:20.116008064341784
+ perimeter257.610597594363
+ }
+ {
+name: Circle 2
+ radius: 21.0
+area:14.396586137792408
+ perimeter131.94689145077132
+ }
+ {
+name: Circle 3
+ radius: 43.0
+area:20.600800694313858
+ perimeter270.1769682087222
+ }
